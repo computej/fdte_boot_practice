@@ -4,7 +4,7 @@ body
   background-image: linear-gradient(25turn, #3f87a6, #ebf8ee, #f69d3c);
 }
 .invisible_hr
-/*exactly what it sounds like. Used to stop elements from touching the top of the viewport*/
+/*exactly what it sounds like. Used to stop elements from touching the top of the body*/
 {
   border-color: unset;
   border: none;
